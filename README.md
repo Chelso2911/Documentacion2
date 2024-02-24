@@ -6,4 +6,4 @@ Es una página hecha con Docusaurus y es una web que muestra documentación de I
 
 # Integrantes
 - Celso Machuca García.
- Claudio Vera Mori.
+- Claudio Vera Mori.
